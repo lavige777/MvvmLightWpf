@@ -1,2 +1,2 @@
 # MvvmLightWpf
-Learning MvvmLight Toolkit
+Демо проект :dancer: для изучения возможностей инструментария MvvmLight
